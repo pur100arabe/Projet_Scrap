@@ -1,4 +1,4 @@
-# Scraper RSS Intelligent
+# Scraper RSS
 
 ## Objectif
 Ce projet a pour but de scanner des centaines de flux RSS pour y repérer automatiquement les articles contenant certains mots-clés définis par l'utilisateur.
@@ -6,7 +6,7 @@ Ce projet a pour but de scanner des centaines de flux RSS pour y repérer automa
 ## Fichiers du projet
 - "rss_list.txt" → contient la liste de plus de 1900 flux RSS à analyser.
 - "mots_cles.txt" → fichier texte avec un mot-clé par ligne.
-- "notebook_scraper_ilies_final.py" → script principal à exécuter.
+- "notebook_scraper_Ilies_BOUDHAN" → script principal à exécuter.
 - "resultat.txt" → fichier généré contenant les articles pertinents trouvés.
 
 ## Installation

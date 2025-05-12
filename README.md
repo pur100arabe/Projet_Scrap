@@ -41,15 +41,10 @@ Le script :
 Mot-clé : [mot]
 ```
 
-## Optimisation
-- Utilisation de la bibliothèque "concurrent.futures" avec "ThreadPoolExecutor" pour interroger les flux en parallèle (25 threads).
-- Gestion des erreurs de parsing ou de réseau avec logs ("logging").
 
 ## Exemple de mots_cles.txt
 ```
-cyber
-piratage
-hacking
+Nutella
 ```
 
 ## Résultat
